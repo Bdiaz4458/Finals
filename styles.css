@@ -10,8 +10,14 @@ p{
   font-size: 20px;
   line-height: 2.00;
   margin-bottom: 1.25em;
-  list-style: circle;
 }
+
+li a{
+  color: Red;
+  Text-align: center;
+  font-size: 20px
+}
+
 
 
 
